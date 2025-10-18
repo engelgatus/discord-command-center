@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: discord-command-bot
+    env: python
+    region: oregon
+    buildCommand: pip install -r requirements.txt
+    startCommand: python discord_bot.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.0
+
