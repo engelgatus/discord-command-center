@@ -526,5 +526,5 @@ if __name__ == '__main__':
         print("❌ ERROR: DISCORD_BOT_TOKEN not found in .env file!")
     else:
         print("🚀 Starting enhanced bot...")
-	keep_alive()
+	    keep_alive()
         bot.run(TOKEN)
