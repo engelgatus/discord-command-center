@@ -1,6 +1,6 @@
 """
 Discord Personal Command Center Bot - Enhanced AI + SQLite + Slash Commands + Advanced Analytics
-Created for: TikTokTechnician's Productivity Hub
+Created for: Khalister's Discord Server Community
 Features: AI Priority, Summaries, Charts, Predictive Alerts, Context-Aware Intelligence, Smart Digest, Advanced Analytics
 Python Version: 3.13.7
 UI: Optimized, Aesthetic, Edgy
