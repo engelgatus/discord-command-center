@@ -174,6 +174,6 @@ Perfect for tracking coding journeys, content creation workflows, and daily prod
 
 ---
 
-**Made with ⚡ by [engelgatus](https://github.com/engelgatus)**
+**Made with ⚡ by [engelgatus](https://github.com/engelgatus)** — powered by Perplexity
 
 *Originally created for Khalister's Discord server community*
