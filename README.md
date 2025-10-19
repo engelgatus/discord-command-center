@@ -168,6 +168,10 @@ Built for content creators, developers, and productivity enthusiasts who want:
 
 Perfect for tracking coding journeys, content creation workflows, and daily productivity habits.
 
+## 🔗 Related Projects
+
+- **[Job Scraper](https://github.com/engelgatus/job-scraper)** - Automated job scraper for RemoteOK with Discord notifications (companion project)
+
 ---
 
 **Made with ⚡ by [engelgatus](https://github.com/engelgatus)**
