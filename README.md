@@ -172,4 +172,4 @@ Perfect for tracking coding journeys, content creation workflows, and daily prod
 
 **Made with ⚡ by [engelgatus](https://github.com/engelgatus)**
 
-*Part of the TikTokTechnician productivity ecosystem*
+*Originally created for Khalister's Discord server community*
