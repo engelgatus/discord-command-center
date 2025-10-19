@@ -1,5 +1,12 @@
 # Discord Command Center Bot 🤖
 
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![Discord.py](https://img.shields.io/badge/discord.py-2.6.4-blurple) 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Stars](https://img.shields.io/github/stars/engelgatus/discord-command-center)
+
+# Discord Command Center Bot 🤖
+
 A powerful Discord productivity bot designed for personal task tracking, streak management, and habit building. Built with Python, SQLite, and AI integration for smart productivity insights.
 
 ## ✨ Features
